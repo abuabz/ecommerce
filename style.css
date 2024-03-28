@@ -453,6 +453,7 @@ footer .col{
 
 footer .logo{
     margin-bottom: 30px;
+    max-width: 180px;
 }
 
 footer h4{
